@@ -1,0 +1,2 @@
+1. React router dom installation with cmd
+2. creating about, contact, navbar, home pages and linking them with browser-routes and also routes
