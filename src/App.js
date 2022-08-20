@@ -6,6 +6,7 @@ import NavBar from './NavBar';
 import About from './About';
 import Contact from './Contact';
 import Teams from './Teams';
+import Skills from './skills';
 
 // function App() {
 //   const [name, setName] = useState(''); //usestate for storing values from input
@@ -56,6 +57,8 @@ function App() {
         <Route path="/about" element={<About/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path="/teams" element={<Teams/>} />
+        <Route path="/skills" element={<Skills/>} />
+
       </Routes>
       </BrowserRouter>
     </div> 

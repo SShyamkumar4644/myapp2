@@ -10,6 +10,7 @@ function NavBar() {
         <Link to="/about">About</Link>
         <Link to="/contact">Contact</Link>
         <Link to="/teams">Teams</Link>
+        <Link to="/skills">Skills</Link>
     </div>
   )
 }
